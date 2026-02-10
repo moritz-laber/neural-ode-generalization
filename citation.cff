@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Neural ODEs on Complex Networks"
+type: software
+message: "If you use this work, please cite the paper below."
+authors:
+  - given-names: Moritz
+    family-names: Laber
+repository-code: "https://github.com/moritz-laber/neural-ode-generalization"
+
+preferred-citation:
+  type: article
+  title: "When do neural ordinary differential equations generalize on complex networks?"
+  authors:
+  - given-names: Moritz
+    family-names: Laber
+  - given-names: Eliassi-Rad
+    family-names: Tina
+  - given-names: Brennan
+    family-names: Klein
+  journal: "arXiv"
+  year: 2026
+  eprint: "arXiv:2602.08980"
+  url: "https://arxiv.org/abs/2602.08980"
